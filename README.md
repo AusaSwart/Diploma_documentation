@@ -5,9 +5,30 @@
 <h2><p> Folder structure <p/></h2>
   <ul><h3>
 <li> ПДП practice part of diploma documentation 40%	</li> 
+       <ol><h4>
+              <li> Word files of sections</li> 
+              <li> Pictures of schemas from IntelIdea</li> 
+              <li> Pictures from thesis</li> 
+              <li> Other for characterictic</li>
+              <li> Normocontrol_pdf</li>
+              <li> Normocontrol_final</li>
+       </h4></ol>
 <li> PDF_files final wersion of documentation	</li> 
 <li> Disk files to be placed on the disk	</li> 
 <li> Word_files main part of documentation	</li> 
+       <ol><h4>
+              <li> Word files of sections</li> 
+              <li> Pictures of schemas from IntelIdea</li> 
+              <li> Pictures from thesis</li> 
+              <li> Other for characterictic, plan of programm , requests from server</li>
+              <li> Normocontrol_pdf</li>
+              <li> Normocontrol_final</li>
+       </h4></ol>
+<li> Practic_part for archives for supervisor	</li> 
+       <ol><h4>
+              <li> Code_archive</li> 
+              <li> Database_backup</li> 
+       </h4></ol>
   </h3></ul>
 
 
